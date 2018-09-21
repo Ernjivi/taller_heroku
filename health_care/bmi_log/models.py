@@ -2,7 +2,7 @@ from django.db import models
 from django.conf import settings
 
 
-class bmi(models.Model):
+class BMI(models.Model):
     """
     Hold bmi records of users.
     """
